@@ -1,0 +1,18 @@
+/*this inserts the different css pages into the html  */
+@import "cssreset.css";
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,700,700i');
+@import "top-section.css";
+@import "services.css";
+@import "portfolio-section.css";
+@import "experience-section.css";
+
+
+body{
+  /* background: #eeeeee; */
+}
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+
+}
